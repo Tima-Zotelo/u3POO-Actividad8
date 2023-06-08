@@ -1,0 +1,181 @@
+{
+    "__class__": "listaPersonal",
+    "personal": [
+        {
+            "__class__": "docenteInvestigador",
+            "__atributos__": {
+                "cuil": "20-42334751-2",
+                "apellido": "Zotelo",
+                "nombre": "Matias",
+                "sueldoBasico": 120000,
+                "antiguedad": 3,
+                "areaInvest": "computo",
+                "tipoInvest": "simple",
+                "carrera": "LCC",
+                "cargo": "simple",
+                "catedra": "POO",
+                "cat": "I",
+                "importe": "13000"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "11111111",
+                "apellido": "Garc\u00eda",
+                "nombre": "Juan",
+                "sueldoBasico": 25000,
+                "antiguedad": 5,
+                "carrera": "F\u00edsica",
+                "cargo": "Exclusivo",
+                "catedra": "Mec\u00e1nica Cu\u00e1ntica"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "22222222",
+                "apellido": "L\u00f3pez",
+                "nombre": "Mar\u00eda",
+                "sueldoBasico": 30000,
+                "antiguedad": 8,
+                "carrera": "Matem\u00e1ticas",
+                "cargo": "Exclusivo",
+                "catedra": "\u00c1lgebra Lineal"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "33333333",
+                "apellido": "Mart\u00ednez",
+                "nombre": "Pedro",
+                "sueldoBasico": 28000,
+                "antiguedad": 3,
+                "carrera": "Inform\u00e1tica",
+                "cargo": "Semiexclusivo",
+                "catedra": "Programaci\u00f3n Avanzada"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "44444444",
+                "apellido": "Rodr\u00edguez",
+                "nombre": "Laura",
+                "sueldoBasico": 35000,
+                "antiguedad": 6,
+                "areaInvest": "Biolog\u00eda",
+                "tipoInvest": "Experimental"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "55555555",
+                "apellido": "G\u00f3mez",
+                "nombre": "Carlos",
+                "sueldoBasico": 40000,
+                "antiguedad": 9,
+                "areaInvest": "Qu\u00edmica",
+                "tipoInvest": "Te\u00f3rica"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "66666666",
+                "apellido": "Fern\u00e1ndez",
+                "nombre": "Ana",
+                "sueldoBasico": 38000,
+                "antiguedad": 4,
+                "areaInvest": "F\u00edsica",
+                "tipoInvest": "Computacional"
+            }
+        },
+        {
+            "__class__": "deApoyo",
+            "__atributos__": {
+                "cuil": "77777777",
+                "apellido": "D\u00edaz",
+                "nombre": "Luis",
+                "sueldoBasico": 20000,
+                "antiguedad": 2,
+                "categoria": 10
+            }
+        },
+        {
+            "__class__": "deApoyo",
+            "__atributos__": {
+                "cuil": "88888888",
+                "apellido": "P\u00e9rez",
+                "nombre": "Silvia",
+                "sueldoBasico": 22000,
+                "antiguedad": 7,
+                "categoria": 15
+            }
+        },
+        {
+            "__class__": "deApoyo",
+            "__atributos__": {
+                "cuil": "99999999",
+                "apellido": "Gonz\u00e1lez",
+                "nombre": "Andr\u00e9s",
+                "sueldoBasico": 21000,
+                "antiguedad": 4,
+                "categoria": 21
+            }
+        },
+        {
+            "__class__": "docenteInvestigador",
+            "__atributos__": {
+                "cuil": "12345678",
+                "apellido": "L\u00f3pez",
+                "nombre": "Miguel",
+                "sueldoBasico": 40000,
+                "antiguedad": 6,
+                "areaInvest": "Historia",
+                "tipoInvest": "Simple",
+                "carrera": "Historia",
+                "cargo": "Simple",
+                "catedra": "Historia Mundial",
+                "cat": "I",
+                "importe": 5000
+            }
+        },
+        {
+            "__class__": "docenteInvestigador",
+            "__atributos__": {
+                "cuil": "23456789",
+                "apellido": "G\u00f3mez",
+                "nombre": "Marta",
+                "sueldoBasico": 45000,
+                "antiguedad": 9,
+                "areaInvest": "Biologia",
+                "tipoInvest": "Exclusivo",
+                "carrera": "Biologia",
+                "cargo": "Exclusivo",
+                "catedra": "Biologia marina",
+                "cat": "II",
+                "importe": 6000
+            }
+        },
+        {
+            "__class__": "docenteInvestigador",
+            "__atributos__": {
+                "cuil": "34567890",
+                "apellido": "Fern\u00e1ndez",
+                "nombre": "Luisa",
+                "sueldoBasico": 42000,
+                "antiguedad": 5,
+                "areaInvest": "Historia",
+                "tipoInvest": "Semiexclusivo",
+                "carrera": "Historia",
+                "cargo": "Semiexclusivo",
+                "catedra": "Historia Argentina",
+                "cat": "III",
+                "importe": 5500
+            }
+        }
+    ]
+}
